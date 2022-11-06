@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288239928939)
 
 ### Sosial Media
-[![YouTube](https://img.shields.io/badge/nxvall-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nxvall)
-[![tiktod](https://img.shields.io/badge/gpla5u-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@erlandandaa)
+[![YouTube](https://img.shields.io/badge/My Yt-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nxvall)
+[![tiktod](https://img.shields.io/badge/My Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@erlandandaa)
 
 ## My Stats
 ![Github stat](https://github-readme-stats.vercel.app/api?username=nda22&theme=midnight-purple&show_icons=true) 
