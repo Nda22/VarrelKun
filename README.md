@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
         
-> Hi :wave:, my name is GOPALA5U
+> Hi :wave:, my name is Ndaa
 
 </div>
 
@@ -29,20 +29,20 @@ Here are some ideas to get you started:
 </p>
 
 ## Contact Me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285954184111)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288239928939)
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/nxvall-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nxvall)
-[![tiktod](https://img.shields.io/badge/gpla5u-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gpla5u)
+[![tiktod](https://img.shields.io/badge/gpla5u-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@erlandandaa)
 
 ## My Stats
-![Github stat](https://github-readme-stats.vercel.app/api?username=VarrelKun&theme=midnight-purple&show_icons=true) 
+![Github stat](https://github-readme-stats.vercel.app/api?username=nda22&theme=midnight-purple&show_icons=true) 
 
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarrelKun&theme=midnight-purple)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nda22&theme=midnight-purple)
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/VarrelKun?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/nda22?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
